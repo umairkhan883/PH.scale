@@ -1,0 +1,53 @@
+h1{
+    background-color: aqua;
+    text-align: center;
+    border-bottom: solid;
+    padding: 40px;
+}
+p{
+    padding: 5px;
+    margin: 0px;
+}
+p.one{
+    background-color: rgb(0,136,221);
+}
+p.tow{
+    background-color: rgb(0,149,226);
+}
+p.three{
+    background-color: rgb(0,160,230)
+}
+p.four{
+    background-color: rgb(48,170,233);
+}
+p.five{
+    background-color: rgb(84,182,237);
+}
+p.six{
+    background-color: rgb(114,193,240);
+}
+p.seven{
+    background-color: rgb(140,202,242);
+}
+p.eight{
+    background-color: rgb(149,222,250)
+}
+p.nine{
+    background-color: rgb(0,187,136);
+}
+p.ten{
+    background-color: rgb(248, 184, 210)
+}
+p.eleven{
+    background-color: rgb(245,140,178);
+}
+p.twelve{
+    background-color:rgb(244,123,166)
+}
+p.thirteen{
+    background-color: rgb(243,106,152);
+}
+p.fourtenn{
+    background-color: rgb(238,62,128);
+}
+    
